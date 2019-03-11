@@ -1522,7 +1522,7 @@
 .path-monitoring .el-collapse-item__content{
 	padding-bottom: 2px;
 }
-.path-monitoring .combo,{
+.path-monitoring .combo{
 	height: 30px !important;
 	border-color: #b6b4b6;
 	width: 145px !important;
